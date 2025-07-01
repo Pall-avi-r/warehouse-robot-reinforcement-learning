@@ -29,7 +29,18 @@ jupyter notebook warehouse_robot_optimization.ipynb
 
 ## Results
 - Achieved improved path efficiency for the warehouse robot.
-- Reduced average task completion time by XX% after training.
+- Reduced average task completion time by
+Mean Reward: 15.0
+Task Completion Rate: 100.0%
+Average Travel Time: 10.4 units
+Average Idle Time: 4.0 units
+Total Time for Tasks: 216 units
+
+Efficiency Evaluation:
+Mean reward could be improved.
+All tasks were successfully completed.
+Lower travel times indicate a more optimized solution.
+Lower idle times indicate higher efficiency.after training.
 - Detailed performance analysis is available in the project report.
 
 ## Project Report
